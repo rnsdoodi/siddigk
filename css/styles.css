@@ -1,0 +1,168 @@
+
+
+body
+{
+    margin: 0;
+    text-align: center;
+  	font-family: 'Merriweather', serif;
+}
+
+h1
+{
+  color:#66bfbf;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+}
+
+h2{
+  color:#66bfbf;
+font-family: 'Montserrat', sans-serif;
+padding-bottom: 10px;
+}
+
+h3{
+
+  color:#11999e;
+font-family: 'Montserrat', sans-serif;
+
+
+}
+.top-container
+{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+
+    }
+
+.middle-container{
+margin: 100px 0;
+  padding-top: 100px;
+}
+
+
+.bottom-container{
+background-color: #c7ffd8;
+padding: 50px 0 20px;
+
+
+}
+
+.bottom-cloud{
+position: absolute;
+left:300px;
+bottom: 300px;
+
+}
+
+.top-cloud{
+position:absolute;
+right:300px;
+top:50px;
+height: 48px;
+
+}
+.p1{
+
+  color:#66bfbf;
+
+}
+
+.skills{
+  padding-top: 8%;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hd-img {
+  width: 25%;
+  float: right;
+  margin: 30px;
+}
+
+hr{
+border:dotted #e4f9f5;
+border-bottom: none;
+width: 4%;
+margin: 200px 30px;
+
+
+
+
+}
+
+.myButton {
+	background-color:#007dc1;
+	border-radius:28px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #154682;
+}
+.myButton:hover {
+	background-color:#0061a7;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+a{
+  color:#00af91;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.copyrights{
+  color:#00af91;
+
+}
+
+#testimonials{
+text-align: center;
+background-color: #c7ffd8;
+color: #c7ffd8;
+padding: 10% 20;
+padding-bottom: 3%
+
+}
+
+.testimonial-text {
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+}
+
+.contact-me{
+  padding-top: 10%;
+}
+
+.testimonial-image{
+  width:35%;
+
+}
+
+.testimonial1-image{
+  width:35%;
+
+}
